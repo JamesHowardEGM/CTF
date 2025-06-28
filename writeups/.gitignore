@@ -1,18 +1,15 @@
-# Common files to ignore for CTFs
 *.zip
 *.rar
 *.7z
 *.pcap
 *.log
 *.pyc
+__pycache__/
 *.tmp
 *.swp
 *.bak
 *.bin
 *.exe
-
-__pycache__/
-loot/
 wordlists/
+loot/
 output/
-templates/
